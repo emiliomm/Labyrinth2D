@@ -1,5 +1,5 @@
 # Labyrinth2D
-Simple Android game made with Processing, Ketai and Box2D.
+Simple 2D Android game made with Processing, Ketai and Box2D.
 
  - Use the gyroscope to move the ball to the exit of the level.
  - Find the path avoiding the obstacles.
@@ -8,3 +8,5 @@ Simple Android game made with Processing, Ketai and Box2D.
 To try the game, download the file named labyrinth2d.apk in the repository and install it in your smartphone.
  - Gyroscope needed.
  - Android 4.1 or higher.
+
+Visit the [wiki](https://github.com/emiliomm/Labyrinth2D/wiki) to view some images.
